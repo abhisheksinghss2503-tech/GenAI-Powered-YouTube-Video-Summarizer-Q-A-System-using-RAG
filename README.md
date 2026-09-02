@@ -32,6 +32,7 @@ Gemini LLM
 Summary / Question Answering
 
 🛠️ Technologies Used
+
 Python
 LangChain
 Google Gemini API
@@ -42,6 +43,7 @@ Retrieval-Augmented Generation (RAG)
 Natural Language Processing (NLP)
 
 📂 Project Workflow
+
 Extract transcript from YouTube video.
 Split transcript into smaller chunks.
 Generate embeddings using Hugging Face.
@@ -51,12 +53,14 @@ Send retrieved context to Gemini LLM.
 Generate summary or answer.
 
 💡 Sample Questions
+
 What is the main topic of the video?
 Summarize this video in 5 points.
 What did the speaker say about AI?
 Explain the key concepts discussed.
 
 🎯 Future Enhancements
+
 Support multiple YouTube videos
 Web-based interface using Streamlit
 Quiz generation from video content
