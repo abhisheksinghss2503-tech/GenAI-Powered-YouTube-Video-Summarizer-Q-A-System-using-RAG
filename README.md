@@ -1,4 +1,5 @@
 🎥 GenAI-Powered YouTube Video Summarizer & Q&A System using RAG
+
 📌 Project Overview
 
 This project is a Retrieval-Augmented Generation (RAG) application that summarizes YouTube videos and answers user questions based on the video content. The system extracts YouTube transcripts, converts them into embeddings, stores them in a FAISS vector database, and uses Google's Gemini LLM to generate accurate and context-aware responses.
@@ -48,6 +49,7 @@ Store embeddings in FAISS Vector Store.
 Retrieve relevant chunks based on user query.
 Send retrieved context to Gemini LLM.
 Generate summary or answer.
+
 💡 Sample Questions
 What is the main topic of the video?
 Summarize this video in 5 points.
